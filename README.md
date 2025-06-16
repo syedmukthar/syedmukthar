@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syedmukthar
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on C programming
+- 🌱 I’m currently learning Java language
+- 💞️ I’m looking to collaborate on Java programming
 - 📫 How to reach me My WhatsApp Number 9566931400 and Gmail syedmukthar54@gmail.com
 
 <!---
